@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nahuel Aracena</h1>
-<h3 align="center">Soy un desarrollador Front-end de Argentina que busca constantemente ampliar sus conocimientos y poder mejorar día a día I am a Front-end developer from Argentina who constantly seeks to expand his knowledge and improve day by day.</h3>
+<h3 align="center">Soy un desarrollador Front-end de Argentina que busca constantemente ampliar sus conocimientos y poder mejorar día a día <br> I am a Front-end developer from Argentina who constantly seeks to expand his knowledge and improve day by day.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
